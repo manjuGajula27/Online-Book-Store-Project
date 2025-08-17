@@ -15,7 +15,4 @@ It provides separate services for **Admin, Customer, and Seller** functionalitie
 - MySQL, Hibernate
 - HTML, CSS, JavaScript
 
-## ▶️ How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/manjuGajula27/online-book-store-java.git
+
